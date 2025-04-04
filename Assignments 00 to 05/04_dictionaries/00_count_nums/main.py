@@ -1,4 +1,4 @@
-def count_number_occurrences():
+def count_number():
     print("Enter numbers one by one. Press Enter without typing anything to finish.\n")
     numbers = []
     
@@ -21,4 +21,4 @@ def count_number_occurrences():
         print(f"{num} appears {count} times.")
 
 
-count_number_occurrences()
+count_number()
